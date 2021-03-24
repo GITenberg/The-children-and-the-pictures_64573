@@ -1,0 +1,32 @@
+_repo: The-children-and-the-pictures_64573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Pamela
+    aliases:
+    - Fallodon, Lady Grey of
+    - Wyndham, Pamela
+    - Tennant, Pamela
+    - Glenconner, Pamela
+    - Grey of Fallodon, Lady
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '52967'
+    url: http://www.gutenberg.org/2009/agents/52967
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64573'
+  lccn: 08013746
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Juvenile literature'
+- !lcc 'ND'
+- !lcsh 'Painting'
+- GITenberg
+title: The children and the pictures
+url: http://www.gutenberg.org/ebooks/64573
