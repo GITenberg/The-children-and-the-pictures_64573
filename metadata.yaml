@@ -1,5 +1,8 @@
 _repo: The-children-and-the-pictures_64573
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64573-h/images/cover.jpg
 creator:
   author:
     agent_name: Grey, Pamela
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '52967'
     url: http://www.gutenberg.org/2009/agents/52967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64573#The-children-and-the-pictures
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
